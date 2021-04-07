@@ -1,4 +1,4 @@
-## DiscordK
+## <h1>DiscordK</h1>
 
 fuck discord, we run that shit
 
